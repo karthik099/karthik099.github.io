@@ -7542,7 +7542,7 @@ header {
   margin-right: 10px;
   transition: width 0.6s ease-in-out; }
   .collapsible-nav.show {
-    width: 160px; }
+    width: 90px; }
   @media (max-width: 991px) {
     .collapsible-nav {
       position: fixed;
