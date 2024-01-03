@@ -4440,6 +4440,13 @@ img.u-pull-left {
 	font-size:large;
 }
 
+.s-footer__contact-btn .btn strong::before {
+    content: url(../images/whatsapp.png);
+    margin-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
 /* ------------------------------------------------------------------- 
  * ## subscription form
  * ------------------------------------------------------------------- */
